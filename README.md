@@ -16,10 +16,10 @@
 			]
 	
 	def getCity():
-		return Chhattisgarh_India()
+		return Blumenau_SC_Brazil()
 	
 	def Ambitions():
-		BecomeSoftwareEngineer()
+		BecomeCloudArchitect()
 		FinishMyProjects()
 	
  ```
