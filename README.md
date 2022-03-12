@@ -76,13 +76,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/diegovoltolini/"><img alt="Linkedin" title="Diego Voltolini Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/voltolini"><img alt="Github" title="Diego Voltolini Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://voltolini.github.io/"><img alt="Github" title="Diego Voltolini Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
    <a href="https://www.facebook.com/divoltolini"><img alt="Facebook" title="Diego Voltolini FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="https://instagram.com/euvoltolini"><img alt="Instagram" title="Diego Voltolini Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  </p>
  <p align="center">
   <a href="mailto:diegovolt@gmail.com"><img alt="Gmail" title="Diego Voltolini Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://t.me/divoltolini"><img alt="Telegram" title="Diego Voltolini Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
-  <a href="https://twitter.com/voltolini"><img alt="Twitter" title="Jaydeep Yadav Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://twitter.com/voltolini"><img alt="Twitter" title="Diego Voltolini Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 </p>
