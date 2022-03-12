@@ -51,12 +51,11 @@
 	
 </p>
 
-## Browsers
+<!--## Browsers
 <p>
 	<a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?logo=Google-Chrome&logoColor=white"></a>
 	<a href="#"><img alt="Edge" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?logo=Microsoft-edge&logoColor=white"></a>
-</p>
-
+</p>-->
 ## Communities, Cloud hosting
 
 <p>
