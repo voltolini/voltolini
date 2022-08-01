@@ -84,10 +84,11 @@
 </p>
 
 ![Dino](https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif)
-
+<br>
+<br>
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" /> Connect with Me</h2></summary>
-
+<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/diegovoltolini/"><img alt="Linkedin" title="Diego Voltolini Linkedin" target="_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
