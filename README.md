@@ -85,7 +85,7 @@
 
 ![Dino](https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif)
 
-<h2><a href="#"><img alt="Pikachu" src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif"></h2>## Connect with Me
+<summary><h3><a href="#"><img alt="Pikachu" src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif"></h3><summary>## Connect with Me
 
 
 <p align="center">
