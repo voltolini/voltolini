@@ -53,7 +53,15 @@
 	<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Rocky%20Linux-10B981?logo=rockylinux&logoColor=fff"></a>
 	<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
 	<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Red%20Hat-EE0000?logo=redhat&logoColor=white"></a><br><br>
-	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"></a>
+	<a href="#"><img alt="Windows" src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white"></a><br>
+	<a href="#"><img alt="Windows" src="https://custom-icon-badges.demolab.com/badge/Windows_Server_2008-0078D6?logo=windows11&logoColor=white"></a>
+	<a href="#"><img alt="Windows" src="https://custom-icon-badges.demolab.com/badge/Windows_Server_2008_R2-0078D6?logo=windows11&logoColor=white"></a>
+	<a href="#"><img alt="Windows" src="https://custom-icon-badges.demolab.com/badge/Windows_Server_2012-0078D6?logo=windows11&logoColor=white"></a>
+	<a href="#"><img alt="Windows" src="https://custom-icon-badges.demolab.com/badge/Windows_Server_2012_R2-0078D6?logo=windows11&logoColor=white"></a>
+	<a href="#"><img alt="Windows" src="https://custom-icon-badges.demolab.com/badge/Windows_Server_2016-0078D6?logo=windows11&logoColor=white"></a>
+	<a href="#"><img alt="Windows" src="https://custom-icon-badges.demolab.com/badge/Windows_Server_2019-0078D6?logo=windows11&logoColor=white"></a>
+	<a href="#"><img alt="Windows" src="https://custom-icon-badges.demolab.com/badge/Windows_Server_2022-0078D6?logo=windows11&logoColor=white"></a>
+	<a href="#"><img alt="Windows" src="https://custom-icon-badges.demolab.com/badge/Windows_Server_2025-0078D6?logo=windows11&logoColor=white"></a>
 	
 	
 </p>
