@@ -58,7 +58,7 @@
 	<a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?logo=Google-Chrome&logoColor=white"></a>
 	<a href="#"><img alt="Edge" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?logo=Microsoft-edge&logoColor=white"></a>
 </p>-->
-## Communities, Cloud hHsting and System
+## Communities, Cloud Hosting and System
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></a>
@@ -76,12 +76,12 @@
 
 ## Software and Tools
 <p>
-   	<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"></a>
-	<a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
-    	<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
-    	<a href="#"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"></a>
+   	<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"></a>
+	<a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff"></a>
+    	<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"></a>
+    	<a href="#"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff"></a>
 	<!--<a href="#"><img alt="Apache" src="https://img.shields.io/badge/Apache-CA2136?style=for-the-badge&logo=apache&logoColor=white"></a>-->
-	<a href="#"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"></a>
+	<a href="#"><img alt="Nginx" src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white"></a>
 	
 	
 </p>
