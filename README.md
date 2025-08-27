@@ -47,7 +47,7 @@
 
 ## Operating Systems
 <p>
-	<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"></a><br>
+	<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"></a><br>
 	<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff"></a>
 	<a href="#"><img alt="Linux" src="https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=white"></a>
 	<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Rocky%20Linux-10B981?logo=rockylinux&logoColor=fff"></a>
