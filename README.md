@@ -68,6 +68,13 @@
 	
 </p>
 
+## Infrastructure, Network and Tools
+<p>
+	<a href="#"><img alt="Fortigate" src="https://img.shields.io/badge/Fortinet-EE3124?style=flat&logo=fortinet&logoColor=white"></a>
+
+
+
+ <p>
 <!--## Browsers
 <p>
 	<a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?logo=Google-Chrome&logoColor=white"></a>
