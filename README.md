@@ -73,19 +73,16 @@
 	<a href="#"><img alt="Dell" src="https://img.shields.io/badge/Dell-007DB8?style=flat&logo=dell&logoColor=white"></a>
 	<a href="#"><img alt="Lenovo" src="https://img.shields.io/badge/Lenovo-E2231A?style=flat&logo=lenovo&logoColor=white"></a>
 	<a href="#"><img alt="IBM" src="https://img.shields.io/badge/IBM-052FAD?style=flat&logo=ibm&logoColor=white"></a>
-	<a href="#"><img alt="HPE" src="https://img.shields.io/badge/HPE-00B388?style=flat&logo=hewlettpackardenterprise&logoColor=white"></a>
+	<a href="#"><img alt="HPE" src="https://img.shields.io/badge/HPE-00B388?style=flat&logo=hewlettpackardenterprise&logoColor=white"></a><br>
  	<a href="#"><img alt="Fortigate" src="https://img.shields.io/badge/Fortinet-EE3124?style=flat&logo=fortinet&logoColor=white"></a>
 	<a href="#"><img alt="Mikrotik" src="https://img.shields.io/badge/Mikrotik-293239?style=flat&logo=mikrotik&logoColor=white"></a>
 	<a href="#"><img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-0078D4?style=flat&logo=microsoft&logoColor=white"></a>
 	<a href="#"><img alt="Cisco" src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white"></a>
-	<a href="#"><img alt="Cisco Meraki" src="https://img.shields.io/badge/Cisco_Meraki-1BA0D7?style=flat&logo=cisco&logoColor=white"></a>
 	<a href="#"><img alt="Fortinet" src="https://img.shields.io/badge/Fortinet-EE3124?style=flat&logo=fortinet&logoColor=white"></a>
 	<a href="#"><img alt="Mikrotik" src="https://img.shields.io/badge/Mikrotik-293239?style=flat&logo=mikrotik&logoColor=white"></a>
-	<a href="#"><img alt="VMware" src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white"></a>
 	<a href="#"><img alt="VMware ESXi" src="https://img.shields.io/badge/VMware_ESXi-607078?style=flat&logo=vmware&logoColor=white"></a>
-	<a href="#"><img alt="Red Hat" src="https://img.shields.io/badge/Red_Hat-EE0000?style=flat&logo=redhat&logoColor=white"></a>
 	<a href="#"><img alt="Proxmox" src="https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white"></a>
-	<a href="#"><img alt="TrueNAS" src="https://img.shields.io/badge/TrueNAS-0095D5?style=flat&logo=truenas&logoColor=white"></a>
+	
 
  <p>
 <!--## Browsers
