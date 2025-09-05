@@ -71,7 +71,7 @@
 ## Infrastructure, Network and Tools
 <p>
 	<a href="#"><img alt="Fortigate" src="https://img.shields.io/badge/Fortinet-EE3124?style=flat&logo=fortinet&logoColor=white"></a>
-
+	<a href="#"><img alt="Mikrotik" src="https://img.shields.io/badge/Mikrotik-293239?style=flat&logo=mikrotik&logoColor=white"></a>
 
 
  <p>
