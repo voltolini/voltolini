@@ -82,6 +82,7 @@
 	<a href="#"><img alt="Mikrotik" src="https://img.shields.io/badge/Mikrotik-293239?style=flat&logo=mikrotik&logoColor=white"></a>
 	<a href="#"><img alt="VMware ESXi" src="https://img.shields.io/badge/VMware_ESXi-607078?style=flat&logo=vmware&logoColor=white"></a>
 	<a href="#"><img alt="Proxmox" src="https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white"></a>
+ 	<a href="#"><img alt="Hyper-V" src="https://custom-icon-badges.demolab.com/badge/Windows_Hyper--V-0078D6?logo=windows11&logoColor=white"></a>
 	
 
  <p>
