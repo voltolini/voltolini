@@ -68,21 +68,23 @@
 	
 </p>
 
-## Infrastructure Vendors, Network and Tools
+## Infrastructure Vendors, Virtualization, Network and Tools
 <p>	
 	<a href="#"><img alt="Dell" src="https://img.shields.io/badge/Dell-007DB8?style=flat&logo=dell&logoColor=white"></a>
 	<a href="#"><img alt="Lenovo" src="https://img.shields.io/badge/Lenovo-E2231A?style=flat&logo=lenovo&logoColor=white"></a>
 	<a href="#"><img alt="IBM" src="https://img.shields.io/badge/IBM-052FAD?style=flat&logo=ibm&logoColor=white"></a>
-	<a href="#"><img alt="HPE" src="https://img.shields.io/badge/HPE-00B388?style=flat&logo=hewlettpackardenterprise&logoColor=white"></a><br>
+	<a href="#"><img alt="HPE" src="https://img.shields.io/badge/HPE-00B388?style=flat&logo=hewlettpackardenterprise&logoColor=white"></a><br><br>
  	<a href="#"><img alt="Fortigate" src="https://img.shields.io/badge/Fortinet-EE3124?style=flat&logo=fortinet&logoColor=white"></a>
 	<a href="#"><img alt="Mikrotik" src="https://img.shields.io/badge/Mikrotik-293239?style=flat&logo=mikrotik&logoColor=white"></a>
-	<a href="#"><img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-0078D4?style=flat&logo=microsoft&logoColor=white"></a>
+	<a href="#"><img alt="PaloAlto" src="https://custom-icon-badges.demolab.com/badge/Palo%20Alto%20Networks-0073E7.svg?logo=paloaltonetworks&logoColor=white&style=flat"></a>
+	<a href="#"><img alt="Extreme Networks" src="https://img.shields.io/badge/Extreme_Networks-662D91?style=flat&logoColor=white"></a>
 	<a href="#"><img alt="Cisco" src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white"></a>
-	<a href="#"><img alt="Fortinet" src="https://img.shields.io/badge/Fortinet-EE3124?style=flat&logo=fortinet&logoColor=white"></a>
-	<a href="#"><img alt="Mikrotik" src="https://img.shields.io/badge/Mikrotik-293239?style=flat&logo=mikrotik&logoColor=white"></a>
+ 	<a href=#><img alt="pfSense" src="https://img.shields.io/badge/pfSense-212121?style=flat&logo=pfsense&logoColor=white"></a>
+	<a href=#><img alt="SonicWall" src="https://custom-icon-badges.demolab.com/badge/SonicWall-FF6600.svg?logo=sonicwall&logoColor=white&style=flat"></a><br><br>	
 	<a href="#"><img alt="VMware ESXi" src="https://img.shields.io/badge/VMware_ESXi-607078?style=flat&logo=vmware&logoColor=white"></a>
 	<a href="#"><img alt="Proxmox" src="https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white"></a>
  	<a href="#"><img alt="Hyper-V" src="https://custom-icon-badges.demolab.com/badge/Windows_Hyper--V-0078D6?logo=windows11&logoColor=white"></a>
+	<a href="#"<img alt="Nutanix" src="https://img.shields.io/badge/Nutanix-0078D6?style=flat&logo=nutanix&logoColor=white"></a>
 	
 
  <p>
