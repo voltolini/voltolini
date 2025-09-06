@@ -59,7 +59,7 @@
 	<a href="#"><img alt="Windows" src="https://custom-icon-badges.demolab.com/badge/Windows_Server_2008-0078D6?logo=windows11&logoColor=white"></a>
 	<a href="#"><img alt="Windows" src="https://custom-icon-badges.demolab.com/badge/Windows_Server_2008_R2-0078D6?logo=windows11&logoColor=white"></a>
 	<a href="#"><img alt="Windows" src="https://custom-icon-badges.demolab.com/badge/Windows_Server_2012-0078D6?logo=windows11&logoColor=white"></a>
-	<a href="#"><img alt="Windows" src="https://custom-icon-badges.demolab.com/badge/Windows_Server_2012_R2-0078D6?logo=windows11&logoColor=white"></a>
+	<a href="#"><img alt="Windows" src="https://custom-icon-badges.demolab.com/badge/Windows_Server_2012_R2-0078D6?logo=windows11&logoColor=white"></a><br><br>
 	<a href="#"><img alt="Windows" src="https://custom-icon-badges.demolab.com/badge/Windows_Server_2016-0078D6?logo=windows11&logoColor=white"></a>
 	<a href="#"><img alt="Windows" src="https://custom-icon-badges.demolab.com/badge/Windows_Server_2019-0078D6?logo=windows11&logoColor=white"></a>
 	<a href="#"><img alt="Windows" src="https://custom-icon-badges.demolab.com/badge/Windows_Server_2022-0078D6?logo=windows11&logoColor=white"></a>
